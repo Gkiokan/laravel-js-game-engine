@@ -1,0 +1,6 @@
+*
+!icons/
+!icons/*
+!wp-includes/
+!wp-includes/*
+!.gitignore
